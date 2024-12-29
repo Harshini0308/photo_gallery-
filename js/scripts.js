@@ -1,7 +1,14 @@
 const images = [
-    'images/photo1.jpg',
-    'images/photo2.jpg',
-    'images/photo3.jpg',
+    'C:\Users\harsh\photo_gallery\images\image1.jpg',
+    'C:\Users\harsh\photo_gallery\images\image2.jpg',
+    'C:\Users\harsh\photo_gallery\images\image3.jpg',
+    'C:\Users\harsh\photo_gallery\images\image3.jpg',
+    'C:\Users\harsh\photo_gallery\images\image4.jpg',
+    'C:\Users\harsh\photo_gallery\images\image5.jpg',
+    'C:\Users\harsh\photo_gallery\images\image6.jpg',
+    'C:\Users\harsh\photo_gallery\images\image7.jpg',
+    'C:\Users\harsh\photo_gallery\images\image8.jpg',
+    'C:\Users\harsh\photo_gallery\images\new image.jpg',
     // Add more image paths here
 ];
 
